@@ -59,4 +59,4 @@ The Bank Loan Analysis project provides valuable insights into lending practices
 
 ## Repository
 
-https://github.com/Oluchiumeh/Road-Accident
+https://github.com/Oluchiumeh/Bank-Loan
